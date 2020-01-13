@@ -7,10 +7,10 @@ considerações sobre a experiência dos usuários. A lista segue o padrão indi
 
 ## Conteúdo
 
-- [Especificações](##Especificações)
-- [Experiência do usuário, informações sensíveis e melhores práticas](##Experiência-do-usuário-,-informações-sensíveis-e-melhores-práticas)
-- [Governo aberto](##Governo-aberto)
-- [Instrumentais](##Instrumentais)
+- [Especificações](#Especificações)
+- [Experiência do usuário, informações sensíveis e melhores práticas](#Experiência-do-usuário-,-informações-sensíveis-e-melhores-práticas)
+- [Governo aberto](#Governo-aberto)
+- [Instrumentais](#Instrumentais)
 
 
 
@@ -25,6 +25,7 @@ considerações sobre a experiência dos usuários. A lista segue o padrão indi
 ### [Como fazer a especificação](https://www.joelonsoftware.com/2000/10/04/painless-functional-specifications-part-3-but-how/)
 
 ### [Dicas sobre especificação](https://www.joelonsoftware.com/2000/10/15/painless-functional-specifications-part-4-tips/)
+
 Trello e Stack Overflow
 
 New York City
@@ -100,7 +101,17 @@ maio de 2017
 
 [Data in government](https://dataingovernment.blog.gov.uk/)
 
-[NY](https://opendata.cityofnewyork.us/blog/)
+Government Digital Service
+
+United Kingdom government
+
+London
+
+[NYC Open Data](https://opendata.cityofnewyork.us/blog/)
+
+Department of Housing Preservation and Development
+
+New York City 
 
 ### [How the internet will (one day) transform government](https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government)
 Clay Shirky
@@ -122,6 +133,8 @@ dezembro de 2013
 [writing for the web](https://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html)
 
 Usability.gov
+
+U.S. Department of Health & Human Services
 
 Washington
 
@@ -179,3 +192,5 @@ DKAN
 
 ### [Tutoriais de análise de dados abertos da educação](https://dados.educacao.sp.gov.br/aprenda)
 Governo do Estado de São Paulo
+
+
