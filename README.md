@@ -3,7 +3,7 @@
 Coletânea de URLs que contêm utilidades para as temáticas trabalhadas na Transparência Ativa.
 Inclui desde dicas de uso de ferramentas para dados abertos, em nível de formatação de arquivo,
 até parâmetros para elaboração e validação de especificações de evoluções em sítios e
-considerações sobre a experiência dos usuários. A lista segue o padrão indicado no cabeçalho abaixo:
+considerações sobre a experiência dos usuários. 
 
 ## Conteúdo
 
