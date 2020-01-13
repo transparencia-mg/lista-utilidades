@@ -187,6 +187,10 @@ Câmara dos Deputados
 Brasília
 maio de 2017
 
+### [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide): _reference to problems seen in real-world data along with suggestions on how to resolve them_
+
+Github
+
 ### [tidy data no R](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
 
 ### [tidy data](https://dkan.readthedocs.io/en/latest/community/opendatastandards.html)
