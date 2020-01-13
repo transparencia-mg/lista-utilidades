@@ -26,6 +26,8 @@ considerações sobre a experiência dos usuários.
 
 ### [Dicas sobre especificação](https://www.joelonsoftware.com/2000/10/15/painless-functional-specifications-part-4-tips/)
 
+JOEL SPOLSKY
+
 Trello e Stack Overflow
 
 New York City
