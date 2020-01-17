@@ -182,6 +182,8 @@ abril de 2017
 ### [Markdown tables generator](https://www.tablesgenerator.com/markdown_tables)
 Latex Project
 
+### [Selecionar apenas células visíveis no Excell](https://doutoresdoexcel.com.br/tres-formas-de-selecionar-celulas-visiveis-no-excel/)
+
 ### [Tabelas e Gráficos Dinâmicos](https://dadosabertos.camara.leg.br/howtouse/2017-04-19-oocalc-grafico-dinamico-despesas.html)
 Câmara dos Deputados
 Brasília
