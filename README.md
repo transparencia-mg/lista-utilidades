@@ -115,6 +115,8 @@ Department of Housing Preservation and Development
 
 New York City 
 
+### Apresentação sobre [desafios em aplicativos de dados abertos](https://kit.dados.gov.br/Elabora%C3%A7%C3%A3o-do-PDA/#definir-cronograma-e-marcos) (coletânea de vários exemplos)
+
 ### [How the internet will (one day) transform government](https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government)
 Clay Shirky
 
