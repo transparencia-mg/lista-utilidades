@@ -179,6 +179,8 @@ Open Data institute
 ### [Formatação de células com informação de data no excell](https://support.office.com/en-us/article/Stop-automatically-changing-numbers-to-dates-452bd2db-cc96-47d1-81e4-72cec11c4ed8)
 Microsoft
 
+### [Formatação de texto markdown](https://ajuda.eagletecnologia.com/manuais/base-de-conhecimento/sintaxe-markdown)
+
 ### [Gráfico Dinâmico excell](https://dadosabertos.camara.leg.br/howtouse/2017-04-06-msexcel-grafico-dinamico-despesas.html)
 
 Câmara dos Deputados
