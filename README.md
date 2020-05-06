@@ -132,6 +132,12 @@ Github
 
 dezembro de 2013
 
+### Lei Geral de Proteção de Dados Pessoais
+
+[Glossário sobre os termos da LGPD](https://www.serpro.gov.br/lgpd/menu/a-lgpd/glossario-lgpd)
+
+SERPRO
+
 ### Linguagem cidadã
 
 [writing for the web](https://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html)
