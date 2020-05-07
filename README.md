@@ -134,9 +134,9 @@ dezembro de 2013
 
 ### Lei Geral de Proteção de Dados Pessoais
 
-[Glossário sobre os termos da LGPD](https://www.serpro.gov.br/lgpd/menu/a-lgpd/glossario-lgpd)
+[Glossário sobre os termos da LGPD](https://www.serpro.gov.br/lgpd/menu/a-lgpd/glossario-lgpd) - SERPRO
 
-SERPRO
+* [Dissemination of Microdata files - principles, procedures and practices](https://ihsn.org/sites/default/files/resources/IHSN-WP005.pdf) - International Household Survey Network, August/2010
 
 ### Linguagem cidadã
 
