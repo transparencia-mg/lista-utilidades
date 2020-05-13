@@ -182,6 +182,14 @@ janeiro de 2017
 ### [Check that your CSV file is readable](https://csvlint.io/)
 Open Data institute
 
+### CKAN 
+
+[Curso](http://www.inf.ufsc.br/~jose.todesco/LODBrasil/Minicurso/CKAN.pdf)
+Augusto Hermann, 2014
+
+[Guia do Usuário](https://www.centraldocidadao.rs.gov.br/upload/arquivos/201707/31095002-guia-do-usuario-ckan-ibict.pdf)
+Instituto Brasileiro de Informação em Ciência e Tecnologia, 2017
+
 ### [Formatação de células com informação de data no excell](https://support.office.com/en-us/article/Stop-automatically-changing-numbers-to-dates-452bd2db-cc96-47d1-81e4-72cec11c4ed8)
 Microsoft
 
