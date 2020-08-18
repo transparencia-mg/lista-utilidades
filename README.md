@@ -200,6 +200,8 @@ Latex Project
 
 ### [Selecionar apenas células visíveis no Excell](https://doutoresdoexcel.com.br/tres-formas-de-selecionar-celulas-visiveis-no-excel/)
 
+### [Sublime: atalho para preview e corretor ortográfico](https://github.com/transparencia-mg/handbook/blob/master/sublime-utilidades.md)
+
 ### [Tabelas e Gráficos Dinâmicos](https://dadosabertos.camara.leg.br/howtouse/2017-04-19-oocalc-grafico-dinamico-despesas.html)
 Câmara dos Deputados
 Brasília
