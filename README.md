@@ -160,6 +160,8 @@ Brasília
 
 [Manual de Dados Abertos Governamentais do governo estadual do Rio Grande do Sul](https://www.centraldocidadao.rs.gov.br/upload/arquivos/201707/10105453-manual-dados-tecnico.pdf)
 
+[Quizz _'As cinco estrelas dos dados abertos'_](https://h5p.org/node/520377)
+
 ## Instrumentais
 
 ### [Acentuação e _encoding_ para arquivos csv](https://dadosabertos.camara.leg.br/howtouse/2017-03-02-csv-corrigindo-acentuacao.html)
