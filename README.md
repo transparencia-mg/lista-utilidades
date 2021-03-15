@@ -115,6 +115,8 @@ Department of Housing Preservation and Development
 
 New York City 
 
+### [Publicação sobre Dados Abertos](https://opendatapolicylab.org/articles/the-third-wave-of-open-data-open-data-policy-lab-releases-third-wave-of-open-data-toolkit/index.html)
+
 ### Apresentação sobre [desafios em aplicativos de dados abertos](https://pt.slideshare.net/claudiomartins2000/oportunidades-e-desafios-em-aplicativos-de-dados-abertos-open-data) (coletânea de vários exemplos)
 
 ### [How the internet will (one day) transform government](https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government)
