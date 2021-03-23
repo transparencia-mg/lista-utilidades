@@ -194,6 +194,17 @@ Augusto Hermann, 2014
 [Guia do Usuário](https://www.centraldocidadao.rs.gov.br/upload/arquivos/201707/31095002-guia-do-usuario-ckan-ibict.pdf)
 Instituto Brasileiro de Informação em Ciência e Tecnologia, 2017
 
+
+### Curso Jornalismo de Dados para Coberturas Locais da Escola de Dados OKBr
+
+1. Dados e Tabelas: https://www.youtube.com/watch?v=WCj8veWF2E0
+
+2. Configurando, importando e limpando a planilha: https://www.youtube.com/watch?v=o2eWHivc0sE
+
+3.  Análise básica de dados: https://www.youtube.com/watch?v=o2eWHivc0sE
+
+4. Tabela dinâmica e PROCV: https://www.youtube.com/watch?v=B2pVrvOBJoU
+
 ### [Formatação de células com informação de data no excell](https://support.office.com/en-us/article/Stop-automatically-changing-numbers-to-dates-452bd2db-cc96-47d1-81e4-72cec11c4ed8)
 Microsoft
 
